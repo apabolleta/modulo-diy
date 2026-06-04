@@ -79,13 +79,13 @@ This adaptable bed structure is ideal for camper vans or cars, providing a light
 
 All source designs are in [`src/`](src/). Printable parts can be found in [`src/parts/`](src/parts/).
 
-| File | Description |
-|------|-------------|
-| `L_connector_30x30_to_30x30.stl` | L connector 30×30 mm to 30×30 mm |
-| `L_connector_25x25_to_25x25.stl` | L connector 25×25 mm to 25×25 mm |
-| `L_connector_25x25_to_30x30.stl` | L connector 25×25 mm to 30×30 mm |
-| `T_connector_30x30.stl` | T connector 30×30 mm |
-| `T_connector_25x25.stl` | T connector 25×25 mm |
+| File | Part |
+|------|------|
+| `L_connector_30x30_mm_to_30x30_mm.stl` | L connector 30×30 mm to 30×30 mm |
+| `L_connector_25x25_mm_to_25x25_mm.stl` | L connector 25×25 mm to 25×25 mm |
+| `L_connector_25x25_mm_to_30x30_mm.stl` | L connector 25×25 mm to 30×30 mm |
+| `T_connector_30x30_mm.stl` | T connector 30×30 mm |
+| `T_connector_25x25_mm.stl` | T connector 25×25 mm |
 
 ### Recommended print settings
 
