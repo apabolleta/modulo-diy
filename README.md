@@ -12,6 +12,7 @@
 - [Bill of Materials](#bill-of-materials)
 - [3D Printed Parts](#3d-printed-parts)
 - [Assembly](#assembly)
+- [Changelog](#changelog)
 - [Authors](#authors)
 - [License](#license)
 
@@ -101,6 +102,23 @@ All source designs are in [`src/`](src/). Printable parts can be found in [`src/
 3. **Connect the cross tubes:** Slide two telescopic tubes into the T connectors, one per connector.
 4. **Complete the frame:** Join the remaining telescopic tubes to the open ends of the cross tubes using the L connectors to close the rectangular frame.
 5. **Attach the legs:** Fix the legs to the underside of the frame at the corners and intermediate support positions.
+
+## Changelog
+
+All notable changes to this project will be documented in this section.
+
+### [1.1] - 2026-06-04
+
+#### Changed
+
+- Updated connector sizing for higher tighten connections
+- Updated parts file names in README.md
+
+### [1.0] - 2026-06-04
+
+#### Added
+
+- Initial design created
 
 ## Authors
 
