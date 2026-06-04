@@ -65,11 +65,11 @@ This adaptable bed structure is ideal for camper vans or cars, providing a light
 |-----|------|----------|----------:|------:|
 | 5 | Outer tube 1000×30×30 mm | Aluminium square tube, 2 mm wall | 10€ | 50€ |
 | 5 | Inner tube 1000×25×25 mm | Aluminium square tube, 2 mm wall | 8€ | 40€ |
-| 1 | L connector 30×30 mm to 30×30 mm | PLA / PETG (3D printed) | 1€ | 1€ |
-| 1 | L connector 25×25 mm to 25×25 mm | PLA / PETG (3D printed) | 1€ | 1€ |
-| 2 | L connector 25×25 mm to 30×30 mm | PLA / PETG (3D printed) | 1€ | 2€ |
-| 1 | T connector 30×30 mm | PLA / PETG (3D printed) | 1€ | 1€ |
-| 1 | T connector 25×25 mm | PLA / PETG (3D printed) | 1€ | 1€ |
+| 1 | L connector 30×30 mm to 30×30 mm | PLA / ABS / PETG (3D printed) | 1€ | 1€ |
+| 1 | L connector 25×25 mm to 25×25 mm | PLA / ABS / PETG (3D printed) | 1€ | 1€ |
+| 2 | L connector 25×25 mm to 30×30 mm | PLA / ABS / PETG (3D printed) | 1€ | 2€ |
+| 1 | T connector 30×30 mm | PLA / ABS / PETG (3D printed) | 1€ | 1€ |
+| 1 | T connector 25×25 mm | PLA / ABS / PETG (3D printed) | 1€ | 1€ |
 | 9 | Leg 300 mm | Commercial furniture leg | 5€ | 45€ |
 | 1 | Load surface | Plywood panel or slatted base | 20€ | 20€ |
 | | | | **Estimated total*** | **161€** |
@@ -90,7 +90,7 @@ All source designs are in [`src/`](src/). Printable parts can be found in [`src/
 
 ### Recommended print settings
 
-- Material: **PETG** (better temperature and humidity resistance than PLA)
+- Material: ABS / PETG (better temperature and humidity resistance than PLA)
 - Layer height: 0.2 mm
 - Infill: ≥ 60%
 - Walls: ≥ 4 perimeters
