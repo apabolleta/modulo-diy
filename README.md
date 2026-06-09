@@ -107,6 +107,12 @@ All source designs are in [`src/`](src/). Printable parts can be found in [`src/
 
 All notable changes to this project will be documented in this section.
 
+### [1.2] - 2026-06-09
+
+#### Changed
+
+- Updated connector sizing for better fit
+
 ### [1.1] - 2026-06-04
 
 #### Changed
